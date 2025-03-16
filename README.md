@@ -8,7 +8,7 @@ A simple weather application that fetches real-time weather data using the OpenW
 - User-friendly and Simple interface with a modern UI 🎨
 
 ## 🖼️ Demo Screenshot
-![Weather App Screenshot](screenshot.png)
+![Weather App Screenshot](https://github.com/Sruthi282/Weather_App/blob/main/Weather_App_Screenshot.png)
 
 ## 🔧 Technologies Used
 - HTML5
@@ -18,5 +18,12 @@ A simple weather application that fetches real-time weather data using the OpenW
 
 ## 📦 How to Run Locally
 1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/weather-app.git
+   **git clone (https://github.com/Sruthi282/Weather_App)**
+
+2. Open index.html in a browser or use Live Server in VS Code.
+
+3. Make sure you have a valid OpenWeatherMap API key. If not, get one from OpenWeatherAPI.
+Replace apiKey in script.js with your API key:
+    **const apiKey = "YOUR_API_KEY_HERE";**
+
+   
